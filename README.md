@@ -1,2 +1,3 @@
-Repository containing Projects Solution/n 
+Repository containing Projects Solution
+
 This is the **first project** of the **first day** at Holberton !
